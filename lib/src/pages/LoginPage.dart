@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/Catalogo.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/SelectUser.dart';
+import 'package:mdb_flutter/src/pages/Catalogo.dart';
+import 'package:mdb_flutter/src/pages/SelectUser.dart';
 
 class LoginPage extends StatefulWidget {
   @override

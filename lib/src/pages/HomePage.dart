@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:mercadito_de_bolsillo_flutter/src/pages/LoginPage.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/SelectUser.dart';
+import 'package:mdb_flutter/src/pages/LoginPage.dart';
+import 'package:mdb_flutter/src/pages/SelectUser.dart';
 
 class HomePage extends StatefulWidget {
   @override

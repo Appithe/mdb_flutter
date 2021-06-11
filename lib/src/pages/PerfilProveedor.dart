@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/Widgets/bottom_appbar.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/HomePage.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/RegistroProducto.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/RegistroServicio.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/SolicitudesProductoServicio.dart';
+import 'package:mdb_flutter/src/Widgets/bottom_appbar.dart';
+import 'package:mdb_flutter/src/pages/HomePage.dart';
+import 'package:mdb_flutter/src/pages/RegistroProducto.dart';
+import 'package:mdb_flutter/src/pages/RegistroServicio.dart';
+import 'package:mdb_flutter/src/pages/SolicitudesProductoServicio.dart';
 
 class PerfilProveedor extends StatefulWidget {
   PerfilProveedor({Key key}) : super(key: key);

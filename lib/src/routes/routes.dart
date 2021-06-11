@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/Catalogo.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/Compra.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/Detalle.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/HomePage.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/ListaCompras.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/LoginPage.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/PerfilUsuario.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/ReciboProducto.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/RegistroProducto.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/RegistroProveedor.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/RegistroServicio.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/ResgistroUsuario.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/SelectUser.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/SolicitudesProductoServicio.dart';
+import 'package:mdb_flutter/src/pages/Catalogo.dart';
+import 'package:mdb_flutter/src/pages/Compra.dart';
+import 'package:mdb_flutter/src/pages/Detalle.dart';
+import 'package:mdb_flutter/src/pages/HomePage.dart';
+import 'package:mdb_flutter/src/pages/ListaCompras.dart';
+import 'package:mdb_flutter/src/pages/LoginPage.dart';
+import 'package:mdb_flutter/src/pages/PerfilUsuario.dart';
+import 'package:mdb_flutter/src/pages/ReciboProducto.dart';
+import 'package:mdb_flutter/src/pages/RegistroProducto.dart';
+import 'package:mdb_flutter/src/pages/RegistroProveedor.dart';
+import 'package:mdb_flutter/src/pages/RegistroServicio.dart';
+import 'package:mdb_flutter/src/pages/ResgistroUsuario.dart';
+import 'package:mdb_flutter/src/pages/SelectUser.dart';
+import 'package:mdb_flutter/src/pages/SolicitudesProductoServicio.dart';
 
 Map<String, WidgetBuilder> getAplicationRoutes() {
   return <String, WidgetBuilder>{

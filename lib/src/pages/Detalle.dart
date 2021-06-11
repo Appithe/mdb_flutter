@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/Compra.dart';
+import 'package:mdb_flutter/src/pages/Compra.dart';
 
 class Detalle extends StatefulWidget {
   @override

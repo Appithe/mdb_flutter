@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/ReciboProducto.dart';
+import 'package:mdb_flutter/src/pages/ReciboProducto.dart';
 
 class ListaCompras extends StatefulWidget {
   @override

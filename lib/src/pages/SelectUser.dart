@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:mercadito_de_bolsillo_flutter/src/pages/RegistroProveedor.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/ResgistroUsuario.dart';
+import 'package:mdb_flutter/src/pages/RegistroProveedor.dart';
+import 'package:mdb_flutter/src/pages/ResgistroUsuario.dart';
 
 class SelectUser extends StatefulWidget {
   @override

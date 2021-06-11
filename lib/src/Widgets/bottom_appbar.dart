@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/Catalogo.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/PerfilProveedor.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/PerfilUsuario.dart';
+import 'package:mdb_flutter/src/pages/Catalogo.dart';
+import 'package:mdb_flutter/src/pages/PerfilProveedor.dart';
+import 'package:mdb_flutter/src/pages/PerfilUsuario.dart';
 
 class BottomNavigationbar extends StatelessWidget {
   const BottomNavigationbar();

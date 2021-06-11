@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/Widgets/bottom_appbar.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/Compra.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/HomePage.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/pages/ListaCompras.dart';
+import 'package:mdb_flutter/src/Widgets/bottom_appbar.dart';
+import 'package:mdb_flutter/src/pages/Compra.dart';
+import 'package:mdb_flutter/src/pages/HomePage.dart';
+import 'package:mdb_flutter/src/pages/ListaCompras.dart';
 
 class PerfilUsuario extends StatefulWidget {
   @override

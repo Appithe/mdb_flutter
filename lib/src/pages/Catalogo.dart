@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/Widgets/bottom_appbar.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/Widgets/productos_tab.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/Widgets/servicios_tab.dart';
+import 'package:mdb_flutter/src/Widgets/bottom_appbar.dart';
+import 'package:mdb_flutter/src/Widgets/productos_tab.dart';
+import 'package:mdb_flutter/src/Widgets/servicios_tab.dart';
 
 class Catalogo extends StatefulWidget {
   @override

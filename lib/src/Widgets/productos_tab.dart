@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/Widgets/horizontal_list.dart';
+import 'package:mdb_flutter/src/Widgets/horizontal_list.dart';
 
 class ProductosTab extends StatefulWidget {
   ProductosTab({Key key}) : super(key: key);

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:mercadito_de_bolsillo_flutter/src/pages/HomePage.dart';
-import 'package:mercadito_de_bolsillo_flutter/src/routes/routes.dart';
+import 'package:mdb_flutter/src/pages/HomePage.dart';
+import 'package:mdb_flutter/src/routes/routes.dart';
 
 void main() {
   runApp(new MyApp());
