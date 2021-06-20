@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987833023430",
+    "project_id": "mercaditodebolsillo-d46db",
+    "storage_bucket": "mercaditodebolsillo-d46db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987833023430:android:b7bf6b400d65d11b1250c7",
+        "android_client_info": {
+          "package_name": "com.example.mdb_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987833023430-0gon68sri8t3qbrflagrl8g4s2fm7hkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5zMJA4s7JlAYhOLBBuG5IFxaLPD1YfAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987833023430-0gon68sri8t3qbrflagrl8g4s2fm7hkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
